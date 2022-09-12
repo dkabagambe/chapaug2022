@@ -1,0 +1,15 @@
+.container {
+  .myswiper {
+    width: 100%;
+    height: 80vh;
+    padding: 5px 15px;
+    object-fit: contain;
+    .swiperslide {
+      img {
+        width: 100%;
+        height: 100vh;
+        object-fit: cover;
+      }
+    }
+  }
+}
