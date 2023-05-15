@@ -1,6 +1,6 @@
-import React from 'react';
-import '../styles/About.css';
-import about from '../images/11.jpg';
+import React from "react";
+import "../styles/About.css";
+import about from "../images/11.jpg";
 
 const About = () => {
   return (
@@ -10,7 +10,7 @@ const About = () => {
         <h3>
           Chapa is a registered company that deals in Power Lines, Building
           Construction, Substation Construction & Assembly, Telecommunication
-          works & Engineering Equipment Supply, Service and Repair
+          works & Engineering Equipment Supply, Service and Repair.
         </h3>
         <p>
           On 2nd day of September the year 2010, M/S Chapa General Enterprises

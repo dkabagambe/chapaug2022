@@ -1,9 +1,9 @@
-import React, { useState, useEffect } from 'react';
-import '../styles/Navbar.css';
-import logo from '../images/chapa.PNG';
-import { Link, useLocation } from 'react-router-dom';
-import { GiHamburgerMenu } from 'react-icons/gi';
-import { MdLightbulb } from 'react-icons/md';
+import React, { useState, useEffect } from "react";
+import "../styles/Navbar.css";
+import logo from "../images/chapa.PNG";
+import { Link, useLocation } from "react-router-dom";
+import { GiHamburgerMenu } from "react-icons/gi";
+import { MdLightbulb } from "react-icons/md";
 
 const Navbar = () => {
   const [toggleMenu, setToggleMenu] = useState(false);
@@ -15,7 +15,9 @@ const Navbar = () => {
     <div>
       <div className="App__navbar">
         <div className="App__navbar-logo">
-          <img src={logo} alt="logo" />
+          <Link to="/">
+            <img src={logo} alt="logo" />
+          </Link>
         </div>
         <div className="App__navbar-links">
           <Link to="/">Home</Link>

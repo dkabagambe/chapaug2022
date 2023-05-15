@@ -1,5 +1,5 @@
-import React from 'react';
-import '../styles/Mission.css';
+import React from "react";
+import "../styles/Mission.css";
 
 const Mission = () => {
   return (
@@ -7,7 +7,7 @@ const Mission = () => {
       <h4>Our Mission</h4>
 
       <p>
-        To provide quality, cost effective and sustainable engineering solutions
+        To provide quality,cost effective and sustainable engineering solutions
         in the East African region by 2030 in East africa by 2020
       </p>
 

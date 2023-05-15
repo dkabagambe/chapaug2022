@@ -1,6 +1,6 @@
-import React from 'react';
-import { Table, Thead, Tbody, Tr, Th, Td } from 'react-super-responsive-table';
-import '../styles/projects.css';
+import React from "react";
+import { Table, Thead, Tbody, Tr, Th, Td } from "react-super-responsive-table";
+import "../styles/projects.css";
 
 const Projects = () => {
   return (
@@ -36,7 +36,7 @@ const Projects = () => {
                   Generation of As-built Drawings (June 2014 to November, 2015)
                 </li>
               </Td>
-              <Td>Ugx. 735,334,800</Td>
+              <Td>Ugx.735,334,800</Td>
               <Td>completed</Td>
             </Tr>
             <Tr>
@@ -54,7 +54,7 @@ const Projects = () => {
                   Generation of As-Built Drawings (March 2013 to November 2014)
                 </li>
               </Td>
-              <Td>Ugx. 689,704,600 </Td>
+              <Td>Ugx.689,704,600 </Td>
               <Td>completed</Td>
             </Tr>
             <Tr>
@@ -81,7 +81,7 @@ const Projects = () => {
               <Td>4</Td>
               <Td>
                 Construction of a 33Kv power line and associated LV network for
-                the West Nile grid extension, (Procurement Ref:
+                the West Nile grid extension,(Procurement Ref:
                 UEDCL/WORKS/2013/1080)
               </Td>
               <Td>ATC (Uganda) Ltd & Main Contractor: LTL PROJECTS LTD</Td>
@@ -104,7 +104,7 @@ const Projects = () => {
                   constructed MV networks. (May 2014 -Aug 2015)
                 </li>
               </Td>
-              <Td>USD. 142,129</Td>
+              <Td>USD.142,129</Td>
               <Td>completed</Td>
             </Tr>
             <Tr>
@@ -139,7 +139,7 @@ const Projects = () => {
                   Transformers
                 </li>
               </Td>
-              <Td>US$ 291,252</Td>
+              <Td>USD 291,252</Td>
               <Td>completed</Td>
             </Tr>
             <Tr>
@@ -158,7 +158,7 @@ const Projects = () => {
                 </li>
                 <li>Generation of As-built Drawings</li>
               </Td>
-              <Td>Ugx. 870,564,500</Td>
+              <Td>Ugx.870,564,500</Td>
               <Td>completed </Td>
             </Tr>
             <Tr>
@@ -233,7 +233,7 @@ const Projects = () => {
           <Tr>
             <Td>1</Td>
             <Td>
-              Design, Supply and Installation of 33kV Lines and associated Low
+              Design,Supply and Installation of 33kV Lines and associated Low
               Voltage Networks for Grid Intensification under ERT III (52
               schemes) For Three Lots; Lot 3 Western Service Territory (10
               Schemes). (Procurement ref no: REA-ERTIII/WRKS/1718/00392c)
@@ -241,12 +241,12 @@ const Projects = () => {
             <Td>REA& Main Contractor: Chapa General Enterprises Ltd</Td>
             <Td>
               <li>
-                Surveying, structural spotting and line route profile, Pegging
+                Surveying,structural spotting and line route profile, Pegging
                 and Bush Clearance
               </li>
               <li>
                 Procurement and delivery to site of MV and LV Line hardware,
-                Poles, Transformers, switch gear
+                Poles,Transformers,switch gear
               </li>
               <li>Construction and installation of Power Lines network</li>
               <li>
@@ -255,7 +255,7 @@ const Projects = () => {
                 Phase = 16.89km, 26 Distribution Transformers)
               </li>
             </Td>
-            <Td>US$ 716,799.33 And Ugx. 664,141,624.20</Td>
+            <Td>USD 716,799.33 And Ugx. 664,141,624.20</Td>
             <Td>On-going</Td>
           </Tr>
           <Tr>
@@ -283,7 +283,7 @@ const Projects = () => {
                 Phase = 12.69km, 30 Distribution Transformers)
               </li>
             </Td>
-            <Td>US$ 797,518.39 And Ugx. 736, 041,348</Td>
+            <Td>USD 797,518.39 And Ugx. 736, 041,348</Td>
             <Td>On-going</Td>
           </Tr>
           <Tr>
@@ -312,7 +312,7 @@ const Projects = () => {
                 Phase = 12.69km, 30 Distribution Transformers)
               </li>
             </Td>
-            <Td>US$ 2,077,034.87 And Ugx. 1,845,570,256</Td>
+            <Td>USD 2,077,034.87 And Ugx. 1,845,570,256</Td>
             <Td>On-going</Td>
           </Tr>
         </Tbody>

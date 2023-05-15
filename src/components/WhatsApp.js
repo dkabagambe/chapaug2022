@@ -1,7 +1,7 @@
-import React from 'react';
-import ReactWhatsapp from 'react-whatsapp';
-import '../styles/WhatsApp.css';
-import { FaWhatsapp } from 'react-icons/fa';
+import React from "react";
+import ReactWhatsapp from "react-whatsapp";
+import "../styles/WhatsApp.css";
+import { FaWhatsapp } from "react-icons/fa";
 
 const WhatsApp = () => {
   return (

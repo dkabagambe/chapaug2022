@@ -4,6 +4,7 @@
   background: var(--color-gray);
   align-items: center;
   justify-content: center;
+  height: 100%;
 }
 h3 {
   align-items: center;

@@ -3,6 +3,7 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  height: 100%;
 }
 .service h1 {
   color: blue;
@@ -15,7 +16,7 @@
   font-size: 2rem;
   text-transform: capitalize;
   align-items: center;
-  font-family: garamond;
+  font-family: var(--font-base);
   font-weight: 600;
 }
 .service p {

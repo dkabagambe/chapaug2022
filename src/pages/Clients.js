@@ -1,8 +1,8 @@
-import React from 'react';
-import '../styles/Clients.css';
-import img1 from '../images/rea.jpg';
-import img2 from '../images/uedcl.jpg';
-import img3 from '../images/umeme.jpg';
+import React from "react";
+import "../styles/Clients.css";
+import img1 from "../images/rea.jpg";
+import img2 from "../images/uedcl.jpg";
+import img3 from "../images/umeme.jpg";
 
 const Clients = () => {
   return (
