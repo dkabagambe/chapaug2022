@@ -3,7 +3,7 @@ import "../styles/Navbar.css";
 import logo from "../images/chapa.PNG";
 import { Link, useLocation } from "react-router-dom";
 import { GiHamburgerMenu } from "react-icons/gi";
-import { MdLightbulb } from "react-icons/md";
+import { MdClose } from "react-icons/md";
 
 const Navbar = () => {
   const [toggleMenu, setToggleMenu] = useState(false);
@@ -39,8 +39,8 @@ const Navbar = () => {
           />
           {toggleMenu && (
             <div className="App__navbar-smallscreen-overlay flex__center slide-bottom">
-              <MdLightbulb
-                color="blue"
+              <MdClose
+                color="red"
                 fontSize={30}
                 className="overlay__close"
                 onClick={() => setToggleMenu(false)}
